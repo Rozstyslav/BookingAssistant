@@ -1,0 +1,4 @@
+Telethon>=1.40,<2
+openai>=1.66,<3
+python-dotenv>=1,<2
+tzdata>=2024.1
