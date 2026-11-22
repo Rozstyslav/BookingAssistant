@@ -1,0 +1,5 @@
+{"time": "2026-11-22T14:15:09+00:00", "id": 146755, "direction": "out", "text": "Hello, could I book a table for two today, 2026-11-22, at 17:00, please?", "summary": "Requested slot and party size are known.", "decision": "request"}
+{"time": "2026-11-22T14:15:41+00:00", "id": 146756, "direction": "in", "text": "Yes, we have tables", "summary": "Guest wants to know the venue name.", "decision": "reply"}
+{"time": "2026-11-22T14:15:42+00:00", "id": 146757, "direction": "out", "text": "Could you clarify which guest details you need for the reservation, please?", "summary": "Guest wants to know the venue name.", "decision": "reply"}
+{"time": "2026-11-22T14:15:52+00:00", "id": 146758, "direction": "in", "text": "Name and phone number", "summary": "Inquiring about guest details", "decision": "reply"}
+{"time": "2026-11-22T14:15:52+00:00", "id": 146759, "direction": "out", "text": "Could you clarify which guest details you need for the reservation, please?", "summary": "Inquiring about guest details", "decision": "reply"}

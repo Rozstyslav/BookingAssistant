@@ -1,0 +1,9 @@
+{"time": "2026-11-22T14:12:04+00:00", "id": 146746, "direction": "out", "text": "Hello, could I book a table for two today, 2026-11-22, at 17:00, please?", "summary": "Requested slot and party size are known.", "decision": "request"}
+{"time": "2026-11-22T14:12:54+00:00", "id": 146747, "direction": "in", "text": "Hello, we have table for two at 5.30 pm today, would it suit you?", "summary": "Manager proposed another time.", "decision": "reply"}
+{"time": "2026-11-22T14:12:54+00:00", "id": 146748, "direction": "out", "text": "Thank you for the offer. Would a table for two at 17:00 be possible instead?", "summary": "Manager proposed another time.", "decision": "reply"}
+{"time": "2026-11-22T14:13:14+00:00", "id": 146749, "direction": "in", "text": "Sorry, no", "summary": "Guest requests to provide name and number of attendees.", "decision": "reply"}
+{"time": "2026-11-22T14:13:19+00:00", "id": 146750, "direction": "out", "text": "Could you clarify which guest details you need for the reservation, please?", "summary": "Guest requests to provide name and number of attendees.", "decision": "reply"}
+{"time": "2026-11-22T14:13:34+00:00", "id": 146751, "direction": "in", "text": "Name and phone number", "summary": "Guest details are requested", "decision": "reply"}
+{"time": "2026-11-22T14:13:35+00:00", "id": 146752, "direction": "out", "text": "Could you clarify which guest details you need for the reservation, please?", "summary": "Guest details are requested", "decision": "reply"}
+{"time": "2026-11-22T14:13:49+00:00", "id": 146753, "direction": "in", "text": "Name and phone number", "summary": "Guest details are requested", "decision": "reply"}
+{"time": "2026-11-22T14:13:49+00:00", "id": 146754, "direction": "out", "text": "Could you clarify which guest details you need for the reservation, please?", "summary": "Guest details are requested", "decision": "reply"}

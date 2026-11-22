@@ -1,0 +1,5 @@
+{"time": "2026-11-22T14:23:36+00:00", "id": 146769, "direction": "out", "text": "Hello, could I book a table for two today, 2026-11-22, at 17:00, please?", "summary": "Requested slot and party size are known.", "decision": "request"}
+{"time": "2026-11-22T14:23:45+00:00", "id": 146770, "direction": "in", "text": "Hello, yes", "summary": "Manager reported availability.", "decision": "request_booking"}
+{"time": "2026-11-22T14:23:45+00:00", "id": 146771, "direction": "out", "text": "Lovely, thank you. I'd like to reserve a table for two at 17:00 today. What details do you need for the booking, please?", "summary": "Manager reported availability.", "decision": "request_booking"}
+{"time": "2026-11-22T14:24:16+00:00", "id": 146772, "direction": "in", "text": "Name for reservation", "summary": "Guest requests reservation name", "decision": "check_availability"}
+{"time": "2026-11-22T14:24:17+00:00", "id": 146773, "direction": "out", "text": "Could you confirm whether you can reserve the table for two at 17:00, please?", "summary": "Guest requests reservation name", "decision": "check_availability"}
